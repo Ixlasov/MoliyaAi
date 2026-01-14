@@ -1,0 +1,7 @@
+{
+  "name": "Moliya AI",
+  "description": "Shaxsiy moliya va qarz boshqaruvchisi - AI yordamida ovozli va matnli xarajatlarni tahlil qilish tizimi",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
